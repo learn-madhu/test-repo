@@ -1,5 +1,5 @@
 public class Hello{
 	public static void main(String[] args){
-		System.out.println("hello, testing my java class from Jenkins.");
+		System.out.println("hello, testing my java change.");
 	}
 }
